@@ -28,4 +28,5 @@ int main () {
     return 0;
 }
 
-
+/* So appartently whenever you push to git is when it registers the changes. 
+*/
